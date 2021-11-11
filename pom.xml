@@ -10,7 +10,7 @@
     <name>Design Patterns</name>
 
     <properties>
-        <java.version>11</java.version>
+        <maven.compiler.release>11</maven.compiler.release>
         <lombok.version>1.18.20</lombok.version>
     </properties>
 

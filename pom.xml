@@ -6,8 +6,14 @@
 
     <groupId>com.github.ilebedenko</groupId>
     <artifactId>design-patterns</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
     <name>Design Patterns</name>
+
+    <modules>
+        <module>abstract_factory</module>
+    </modules>
 
     <properties>
         <maven.compiler.release>11</maven.compiler.release>

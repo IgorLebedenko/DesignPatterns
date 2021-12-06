@@ -15,6 +15,7 @@
         <module>abstract_factory</module>
         <module>builder</module>
         <module>factory_method</module>
+        <module>prototype</module>
     </modules>
 
     <properties>
